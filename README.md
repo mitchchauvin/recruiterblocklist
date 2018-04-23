@@ -36,7 +36,7 @@ Build a comprehensive list of all recruiters to help job seekers filter out all 
 
 ## How to use the List
   - Block recruiter domains in Hotmail: http://800emailsupport.com/blog/add-email-address-block-list-hotmail/
-  - Block recruiter domains in Gmail: comming soon!
+  - Block recruiter domains in Gmail: https://support.google.com/a/answer/2364632
   - Block recruiter domains in Android Mail: comming soon!
   - Developers can use the list in their Android or iOS apps!
 
