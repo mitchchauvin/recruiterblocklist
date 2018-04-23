@@ -1,3 +1,4 @@
+
 # recruiterblocklist
 Recruiter Block List
 
@@ -29,5 +30,12 @@ We are long overdue for better laws and regulations of the recruiting industry t
 What is the purpose of this list?
 Build a comprehensive list of all recruiters to help job seekers filter out all the annoying mail. In the future the plan is to build an open database with domains, emails, names and phone numbers of recruiters and potentially apps for smart phones that will block emails and calls in real-time.
 
+How to use the List
+  - Block recruiter domains in Hotmail: http://800emailsupport.com/blog/add-email-address-block-list-hotmail/
+  - Block recruiter domains in Gmail: comming soon!
+  - Block recruiter domains in Android Mail: comming soon!
+  - Developers can use the list in their Android or iOS apps!
+
 Help us keep this list up-to-date!
-Send us recruiters to add to the list or check out the list, make a change and submit a pull request.
+  - Send us recruiters to add to the list or check out the list, make a change and submit a pull request.
+  - Develop and Android or iOS app that blocks emails from recruiters using this list!
