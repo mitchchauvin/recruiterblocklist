@@ -1,9 +1,8 @@
 
-# recruiterblocklist
-Recruiter Block List
+# Recruiter Block List
 
-This is a comprehensive list of recruiters that anyone can use freely to:
-  - block recruiting companies from email you using Hotmail or Gmail's block domain feature, and/or
+Welcome to the Recruiter Block List! This is a comprehensive list of recruiters that anyone can use freely to:
+  - block recruiting companies in Hotmail, Gmail or Yahoo using the block domain feature, and/or
   - develop Android and iOS apps that can block recruiters in real-time
 
 We aim to have the most comprehensive worldwide list of recruiter domains to block!
