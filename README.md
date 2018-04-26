@@ -2,10 +2,10 @@
 # Recruiter Block List
 
 Welcome to the Recruiter Block List! This is a comprehensive list of recruiters that anyone can use freely to:
-  - block recruiting companies in Hotmail, Gmail or Yahoo using the block domain feature, and/or
-  - develop Android and iOS apps that can block recruiters in real-time
+  - block recruiting companies in their Hotmail, Gmail or Yahoo accounts using the block domain feature, and/or
+  - develop Android and iOS apps that can block recruiters in real-time.
 
-We aim to have the most comprehensive worldwide list of recruiter domains to block!
+We aim to have the most comprehensive and up-to-date worldwide list of recruiter domains to block!
 
 ## Why is this list needed?
 Anyone who has posted their resume online knows that within a matter of days you will start to get calls and emails 10-20 times a day from:
@@ -14,31 +14,29 @@ Anyone who has posted their resume online knows that within a matter of days you
   - recruiters playing the numbers game by blasting out any and all irrelevant jobs, and/or
   - greedy recruiters that seem nice but are only in it for themselves and will totally rip you and the company you work for off.
 
-Recruiter contracts have become as bad a cell-phone contracts that:
-  - held you hostage by locking you phone to the cellular provider network, and
-  - only unlocked your phone for a absurdly high fee, and
-  - locked people into contracts perpetually by offering new devices near the end of a contractor in order to lock the customer into another contract, and
-  - charged you far more than the value of the phone over the course of your perpetual contracts, and
-  - imposed all sorts of rules and penalties if you tried to get out of your contract and buy out your phone.
-  
-People spoke up and changes were made. Now it's time for people to speak out against recruiters!
+These days most people receive email on their cell phone and are therefore interrupted as soon as a recruiter emails or calls them. Only a small fraction of the emails and calls are actually relevant because a lot of bad recruiters are playing the numbers game or robo-dialing/robo-emailing irrelevant jobs to candidates. I've seen some companies email the same job multiple times from different emails to ensure it gets through your spam filters and I've received the same job >20 times from various recruiters and firms. Answering or deleting these endless calls and emails can become extremely time consuming and frustrating. The productivity hit due to the time wasted on irrelevant spam emails and calls is huge and something needed to be done to stop it.
 
-We are long overdue for better laws and regulations of the recruiting industry that:
-  - prevent recruiters from perpetually charging fees forever, and
-  - prevent recruiters from charging a percentage of your salary or hourly rate, and
-  - prevent recruiters from locking you into a contract that doesn't permit you to work for directly for a company using blackout periods, and
-  - prevent recruiters from charging absurd fees, and
-  - prevent recruiters from telling you and the company that neither of you can discuss your contracts (because you might find out how much you are being ripped off).
+... then the Recruiter Block List was born... and there was peace and quiet once again!
 
-## What is the purpose of this list?
-Build a comprehensive list of all recruiters to help job seekers filter out all the annoying mail. In the future the plan is to build an open database with domains, emails, names and phone numbers of recruiters and potentially apps for smart phones that will block emails and calls in real-time.
+Now you too can stop all the irrelevant recruiter spam and only receive the emails that are important to you thanks to the Recruiter Block List!
 
-## How to use the List
+## How do I use the recruiter block list?
   - Block recruiter domains in Hotmail: http://800emailsupport.com/blog/add-email-address-block-list-hotmail/
   - Block recruiter domains in Gmail: https://support.google.com/a/answer/2364632
   - Block recruiter domains in Android Mail: comming soon!
   - Developers can use the list in their Android or iOS apps!
 
-## Help us keep this list up-to-date!
-  - Send us recruiters to add to the list or check out the list, make a change and submit a pull request.
-  - Develop and Android or iOS app that blocks emails from recruiters using this list!
+## Want to help us maintain the list
+You can help in one of two ways. Add recruiter's domains to the list to keep the list up-to-date or email the domain to us.
+  1. Check out the repo.
+  2. Add a recruitment firm's domain to the list using the script "add_domain.py".
+    a. cd into <repo>/scripts
+    b. ./add_domain <new_recruiter_domain>
+  3. Add, commit and push back your changes.
+
+## Future work
+  - Develop and Android or iOS app that blocks emails from recruiters in real-time on smartphone devices.
+  - Develop a website where:
+    - people can submit new recruiters to block to a database, and
+    - developers can query the website to see if an email or domain is in the database and should be blocked.
+  - Add phone recruiters's phone numbers to the list/database and block phone numbers in real-time on smartphones.
