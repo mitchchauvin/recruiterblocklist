@@ -30,7 +30,7 @@ Now you too can stop all the irrelevant recruiter spam and only receive the emai
   - Block recruiter domains in Android Mail: comming soon!
   - Developers can use the list in their Android or iOS apps!
 
-## Want to help us maintain the list
+## Want to help us maintain the list?
 You can help in one of two ways. Add recruiter's domains to the list to keep the list up-to-date or email the domain to us.
   1. Check out the repo.
   2. Add a recruitment firm's domain to the list using the script "add_domain.py".
